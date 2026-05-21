@@ -1,0 +1,48 @@
+<svg width="1200" height="840" viewBox="0 0 1200 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="840" rx="36" fill="url(#bg)"/>
+<rect x="40" y="40" width="1120" height="760" rx="30" fill="url(#table)"/>
+<ellipse cx="870" cy="260" rx="220" ry="220" fill="#F6E7D4"/>
+<ellipse cx="870" cy="260" rx="190" ry="190" fill="#FFF8EE"/>
+<circle cx="810" cy="220" r="70" fill="#D86E3A"/>
+<circle cx="930" cy="205" r="66" fill="#9FBE65"/>
+<circle cx="886" cy="310" r="74" fill="#D34D44"/>
+<circle cx="782" cy="305" r="44" fill="#F1B04C"/>
+<circle cx="962" cy="306" r="48" fill="#F4C35B"/>
+<ellipse cx="340" cy="285" rx="210" ry="160" fill="#FFF3E1"/>
+<ellipse cx="340" cy="285" rx="184" ry="136" fill="#FBF7F1"/>
+<path d="M217 276C259 205 338 180 411 216C456 239 474 291 437 346C398 404 313 417 252 370C204 333 192 320 217 276Z" fill="#D67734"/>
+<path d="M253 255C292 215 352 206 399 232C433 250 436 283 408 320C374 366 312 372 266 343C232 321 225 285 253 255Z" fill="#F2C66D"/>
+<path d="M227 279C261 231 319 213 372 225C405 232 426 245 431 270C366 291 308 315 252 347C224 326 211 303 227 279Z" fill="#9E5D2B" opacity="0.85"/>
+<rect x="170" y="525" width="286" height="164" rx="34" fill="#FFF7F0"/>
+<rect x="196" y="548" width="236" height="116" rx="28" fill="#B84F30"/>
+<path d="M248 612C271 561 308 534 360 531C393 528 412 540 422 567C383 611 345 640 293 656C266 652 239 633 248 612Z" fill="#F0B14A"/>
+<rect x="532" y="496" width="262" height="196" rx="34" fill="#FFF6EA"/>
+<rect x="564" y="534" width="196" height="120" rx="28" fill="#71462A"/>
+<rect x="590" y="562" width="146" height="64" rx="22" fill="#E9C16A"/>
+<rect x="602" y="480" width="122" height="34" rx="17" fill="#FFF7E5"/>
+<rect x="624" y="420" width="78" height="76" rx="30" fill="#6B4229"/>
+<path d="M650 450C654 430 666 420 684 420C701 420 714 432 718 450" stroke="#E6D3C5" stroke-width="10" stroke-linecap="round"/>
+<g opacity="0.7">
+<path d="M635 410C625 389 627 374 641 364" stroke="#F4E8DB" stroke-width="10" stroke-linecap="round"/>
+<path d="M667 402C661 381 666 365 682 351" stroke="#F4E8DB" stroke-width="10" stroke-linecap="round"/>
+<path d="M697 408C698 391 706 377 721 367" stroke="#F4E8DB" stroke-width="10" stroke-linecap="round"/>
+</g>
+<circle cx="983" cy="594" r="118" fill="#FEF7ED"/>
+<circle cx="983" cy="594" r="90" fill="#C9653B"/>
+<circle cx="983" cy="594" r="54" fill="#FBE6A7"/>
+<circle cx="983" cy="594" r="18" fill="#FFF7E0"/>
+<ellipse cx="150" cy="128" rx="52" ry="20" fill="#FFFFFF" fill-opacity="0.08"/>
+<ellipse cx="1050" cy="120" rx="76" ry="28" fill="#FFFFFF" fill-opacity="0.08"/>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="840" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E160F"/>
+<stop offset="0.5" stop-color="#3D2014"/>
+<stop offset="1" stop-color="#120B08"/>
+</linearGradient>
+<linearGradient id="table" x1="70" y1="88" x2="1114" y2="756" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8B4E2D"/>
+<stop offset="0.48" stop-color="#6E3E24"/>
+<stop offset="1" stop-color="#4B2818"/>
+</linearGradient>
+</defs>
+</svg>
