@@ -12,6 +12,7 @@ import { FloatingAssistant } from "@/components/sections/floating-assistant";
 import { Footer } from "@/components/sections/footer";
 import { HeroSection } from "@/components/sections/hero-section";
 import { Navbar } from "@/components/sections/navbar";
+import { RealSystemsSection } from "@/components/sections/real-systems-section";
 import { SystemSelectorSection } from "@/components/sections/system-selector-section";
 import { LoadingScreen } from "@/components/ui/loading-screen";
 
@@ -135,6 +136,7 @@ export function HomePage() {
             selectedType={selectedType}
             onSelectType={selectType}
           />
+          <RealSystemsSection />
           <FinalCtaSection />
         </main>
 

@@ -44,10 +44,10 @@ export function HeroSection() {
             transition={{ delay: 0.44 }}
             className="mt-10 flex flex-col gap-4 sm:flex-row"
           >
-            <Button href="#builder">
+            <Button href="#system-selector">
               Start Building
             </Button>
-            <Button href="#systems" variant="secondary">
+            <Button href="#system-selector" variant="secondary">
               View Systems
             </Button>
           </motion.div>

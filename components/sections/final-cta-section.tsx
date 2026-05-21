@@ -29,10 +29,10 @@ export function FinalCtaSection() {
                 Fast choice. Fast scope. Fast kickoff.
               </p>
               <div className="mt-8 flex flex-col gap-4 sm:flex-row">
-                <Button href="#builder" className="shadow-[0_0_55px_rgba(96,165,250,0.3)]">
+                <Button href="#system-selector" className="shadow-[0_0_55px_rgba(96,165,250,0.3)]">
                   Get Your System
                 </Button>
-                <Button href="#builder" variant="secondary">
+                <Button href="#system-selector" variant="secondary">
                   Book a Call
                 </Button>
               </div>

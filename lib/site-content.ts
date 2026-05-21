@@ -1,8 +1,5 @@
 export const navItems = [
-  { label: "Systems", href: "#systems" },
-  { label: "Preview", href: "#preview" },
-  { label: "Builder", href: "#builder" },
-  { label: "Demo", href: "#live-demo" },
+  { label: "Systems", href: "#system-selector" },
   { label: "Start", href: "#final-cta" },
 ];
 
