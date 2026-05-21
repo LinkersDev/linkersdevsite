@@ -17,6 +17,10 @@ export const metadata: Metadata = {
   title: "LinkersDev | Product Systems Store",
   description:
     "LinkersDev is a premium product-style website for ready-made systems, business websites, mobile apps, and automation builds.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
 };
 
 export default function RootLayout({
